@@ -74,5 +74,6 @@ The SQL queries address the following business questions:
 ## Contributing
 Contributions to this project are welcome. Fork the repository, create a new branch, and submit a pull request with your changes.
 
-## License
-This project is licensed under the [License Name] License.
+## Acknowledgments
+Data Source: Kaggle’s Walmart Sales Dataset
+Inspiration: Walmart’s business case studies on sales and supply chain optimization.
